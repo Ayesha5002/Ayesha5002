@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ayesha%20Razzaq&fontSize=40&fontColor=ffffff&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2193b0,100:6dd5ed&height=250&section=header&text=Hi,%20I'm%20Ayesha%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Flutter%20Developer%20%7C%20Building%20Cross-Platform%20Apps&descAlignY=55&descSize=18)
 <h1 align="center">Hi 👋, I'm Ayesha Razzaq</h1>
 
 <h3 align="center">
