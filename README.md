@@ -1,5 +1,4 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2193b0,100:6dd5ed&height=250&section=header&text=Hi,%20I'm%20Ayesha%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Flutter%20Developer%20%7C%20Building%20Cross-Platform%20Apps&descAlignY=55&descSize=18)
-<h1 align="center">Hi 👋, I'm Ayesha Razzaq</h1>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Flutter+Developer;Cross+Platform+Mobile+Apps;Android+%7C+iOS+%7C+Web;Problem+Solver+%F0%9F%9A%80;Tech+Enthusiast+%7C+Lifelong+Learner" alt="Typing SVG" />
@@ -9,27 +8,30 @@
   <img alt="coding" width="480" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" style="border-radius: 12px; box-shadow: 0px 0px 15px rgba(0,0,0,0.3);" />
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me  
-💡 A passionate **Flutter Developer** with experience in building scalable mobile and web apps.  
-🔭 I focus on **cross-platform applications**, **clean architecture**, and **modern UI/UX**.  
-🌱 Currently exploring **Databases, Firebase, and Cloud Integrations**.  
-💼 Available for freelance & full-time opportunities.  
-📫 Reach me at: **ayesha208razzaq@gmail.com**  
-⚡ Fun fact: *Code + Coffee = Perfect Combo ☕*  
+## 👨‍💻 About Me
 
----
+💡 A passionate **Flutter Developer** with experience in building scalable mobile and web apps.
+🔭 I focus on **cross-platform applications**, **clean architecture**, and **modern UI/UX**.
+🌱 Currently exploring **Databases, Firebase, and Cloud Integrations**.
+💼 Available for freelance & full-time opportunities.
+📫 Reach me at: **ayesha208razzaq@gmail.com**
+⚡ Fun fact: *Code + Coffee = Perfect Combo ☕*
 
-## 🌐 Connect With Me  
+<br/>
+
+## 🌐 Connect With Me
+
 <p align="center">
   <a href="mailto:ayesha208razzaq@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" width="40"/></a>
   <a href="https://www.linkedin.com/in/ayesha-razzaq-97bb74286"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/></a>
 </p>
 
----
+<br/>
 
-## 🛠️ Tech Stack & Tools  
+## 🛠️ Tech Stack & Tools
+
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
@@ -43,12 +45,22 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
----
+<br/>
 
+## 📊 GitHub Stats
 
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ayesha5002&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayesha5002&theme=radical&hide_border=true"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayesha5002&layout=compact&theme=radical&hide_border=true"/>
+</p>
 
-## 🎯 Fun Section  
+<br/>
+
+## 🎯 Fun Section
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
@@ -58,9 +70,12 @@
   <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
 </p>
 
----
+<br/>
 
-## 👀 Visitor Counter  
+## 👀 Visitor Counter
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MohsinFida007&label=Profile%20Views&color=E53935&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Ayesha5002&label=Profile%20Views&color=2193b0&style=for-the-badge" alt="Profile Views"/>
 </p>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2193b0,100:6dd5ed&height=120&section=footer)
