@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="1000" src="https://github.com/Ayesha5002/Ayesha5008/blob/main/banner.png?raw=true">
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ayesha%20Razzaq&fontSize=40&fontColor=ffffff)
 
 <h1 align="center">Hi 👋, I'm Ayesha Razzaq</h1>
 
