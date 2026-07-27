@@ -1,5 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ayesha%20Razzaq&fontSize=40&fontColor=ffffff)
-
+![Header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ayesha%20Razzaq&fontSize=40&fontColor=ffffff&animation=twinkling)
 <h1 align="center">Hi 👋, I'm Ayesha Razzaq</h1>
 
 <h3 align="center">
